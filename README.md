@@ -1,1 +1,1 @@
-# performance-ai-predictor
+# stock-ai-predictor
